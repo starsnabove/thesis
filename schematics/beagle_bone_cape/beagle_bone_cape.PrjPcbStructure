@@ -1,0 +1,4 @@
+Record=SheetSymbol|SourceDocument=beagle_bone_cape.SchDoc|Designator=U_beagle_bone_headers|SchDesignator=U_beagle_bone_headers|FileName=beagle_bone_headers.SchDoc|SymbolType=Normal|RawFileName=beagle_bone_headers.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=beagle_bone_cape.SchDoc|Designator=U_io_headers|SchDesignator=U_io_headers|FileName=io_headers.SchDoc|SymbolType=Normal|RawFileName=io_headers.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=beagle_bone_cape.SchDoc|Designator=U_motor_controller|SchDesignator=U_motor_controller|FileName=motor_controller.SchDoc|SymbolType=Normal|RawFileName=motor_controller.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=TopLevelDocument|FileName=beagle_bone_cape.SchDoc
