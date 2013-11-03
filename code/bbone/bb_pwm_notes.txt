@@ -1,0 +1,24 @@
+mux done through
+
+/sys/kernel/debug/omap_mux
+
+pwm control done in 
+
+/sys/class/pwm
+
+mcasp0_aclkx mode 1 activates ehrpwm0A - ehrpwm.0:0 - port 9-31
+mcasp0_fsx mode 1 activates ehrpwm0B - ehrpwm.0:1 - port 9-29
+gpmc_a2 mode 6 activates ehrpwm1A - ehrpwm.1:0 - port 9-14
+gpmc_a3 mode 6 activates ehrpwm1B - ehrpwm.1:1 - port 9-16
+gpmc_ad8 mode 4 activates ehrpwm2A - ehrpwm.2:0 - port8-19
+gpmc_ad9 mode 4 activates ehrpwm2B - ehrpwm.2:1 - port8-13
+ecap0_in_pwm0_out mode 0 activates ecap-pwm0 - ecap.0 - port 9-42
+mcasp0_ahclkr mode 4 activates ecap-pwm2 - ecap.2 - port9-28
+
+ecap.1 does not seem to exist
+
+
+to request send 1 to request
+
+to start send 1 to run
+
